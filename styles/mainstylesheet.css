@@ -1,0 +1,143 @@
+h1{
+    color:red;
+}
+
+.red1{
+    background-color:#BD3D2A;
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.red2{
+    background-color:#BA3C38;
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+
+}
+
+.red3{
+    background-color:#A03742;
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    
+}
+
+.square{
+    /* border:0.5px solid black; */
+}
+
+p{
+    font-family: Helvetica, sans-serif;
+    
+}
+
+#leftp1{
+    letter-spacing: -2px;
+    margin-right:20px;
+    margin-top:90px;
+    text-align:right;
+    color:#D3E0E5;
+    font-weight:550;
+    font-size:40px;
+    line-height:35px;
+}
+
+
+
+#rightp1{
+    letter-spacing: -2px;
+    color:black;
+    margin-left:20px;
+    font-size:40px;
+    margin-top:55px;
+    font-weight:550;
+    line-height:35px;
+}
+
+#leftp2{
+    
+    margin-right:20px;
+    margin-top:155px;
+    text-align:right;
+    color:black;
+    font-weight:550;
+    font-size:11px;
+    line-height:10px;
+}
+
+
+#rightp2title{
+    letter-spacing: -2px;
+    color:black;
+    margin-left:20px;
+    font-size:40px;
+    margin-top:60px;
+    font-weight:550;
+    line-height:35px;
+}
+
+#leftp3{
+    
+    margin-right:20px;
+    margin-top:55px;
+    text-align:right;
+    color:black;
+    font-weight:550;
+    font-size:11px;
+    line-height:10px;
+}
+
+
+#leftp3title{
+    letter-spacing: -2px;
+    color:black;
+    margin-right:20px;
+    font-size:40px;
+    margin-top:24px;
+    font-weight:550;
+    text-align:right;
+}
+
+
+#rightp2{
+    margin-left:20px;
+    margin-top:-30px;
+    text-align:left;
+    color:black;
+    font-weight:550;
+    font-size:11px;
+    line-height:10px;
+}
+
+#rightp3title{
+    letter-spacing: -2px;
+    color:black;
+    margin-left:20px;
+    font-size:40px;
+    margin-top:30px;
+    font-weight:550;
+    line-height:35px;
+}
+
+#rightp3{
+    margin-left:20px;
+    margin-top:-30px;
+    text-align:left;
+    color:black;
+    font-weight:550;
+    font-size:11px;
+    line-height:10px;
+}
+
+
+
+
+
+.maincontainer{
+    margin:auto;
+    margin-top:50px;
+    width:550px;
+    height:700px;
+    display:grid;
+    grid-template-rows: 36% 32% 32%;
+}
